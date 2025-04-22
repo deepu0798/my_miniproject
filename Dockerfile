@@ -1,6 +1,6 @@
 FROM nginx:alpine
 COPY . /usr/share/nginx/html
 
-0
+
 
 
